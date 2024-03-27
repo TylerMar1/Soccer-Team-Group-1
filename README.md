@@ -57,7 +57,20 @@ Since our facilities are so nice, we also host matches in these facilities. This
 Being such a popular soccer club, we have many spectators at every game. The spectators have to buy tickets to gain admission to the matches. This is why there is a one-to-many relationship between Matches and the Ticket entity. One match will have many tickets.
 
 ### Data Dictionary:
-# 
+# <img width="664" alt="Screenshot 2024-03-27 at 7 18 15 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/fa573d2b-8523-4ac4-9abc-d61e64b83a9f">
+#<img width="655" alt="Screenshot 2024-03-27 at 7 17 48 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/9801610b-9b8f-4015-a864-111e297df126">
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
 
 ### Queries:
 <img width="760" alt="Screenshot 2024-03-27 at 4 57 14 PM" src="https://github.com/isabellekiser/Soccer-Team/assets/150088753/96ebecb4-8f05-4fc1-8f98-fdbe39497afa">
