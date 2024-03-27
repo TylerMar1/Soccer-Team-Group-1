@@ -58,20 +58,17 @@ Being such a popular soccer club, we have many spectators at every game. The spe
 
 ### Data Dictionary:
 # <img width="664" alt="Screenshot 2024-03-27 at 7 18 15 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/fa573d2b-8523-4ac4-9abc-d61e64b83a9f">
-<img width="655" alt="Screenshot 2024-03-27 at 7 17 48 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/9801610b-9b8f-4015-a864-111e297df126">
-<img width="661" alt="Screenshot 2024-03-27 at 7 19 42 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/56a24bc3-5a8e-43db-8f69-3bf2d102536c">
-<img width="663" alt="Screenshot 2024-03-27 at 7 20 32 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/2ac438ec-907c-4c0e-8249-04e122cd660f">
-<img width="640" alt="Screenshot 2024-03-27 at 7 20 59 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/691eb359-34ed-4ddf-975f-71f06002a6e7">
-<img width="652" alt="Screenshot 2024-03-27 at 7 21 16 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/a227f9e9-d186-4692-beac-f490b27475f1">
-<img width="651" alt="Screenshot 2024-03-27 at 7 21 35 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/44b26c7f-f210-4b16-bc68-613d2e1362b6">
-
-#
-#
-#
-#
-#
-#
-
+# <img width="655" alt="Screenshot 2024-03-27 at 7 17 48 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/9801610b-9b8f-4015-a864-111e297df126">
+# <img width="661" alt="Screenshot 2024-03-27 at 7 19 42 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/56a24bc3-5a8e-43db-8f69-3bf2d102536c">
+# <img width="663" alt="Screenshot 2024-03-27 at 7 20 32 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/2ac438ec-907c-4c0e-8249-04e122cd660f">
+# <img width="640" alt="Screenshot 2024-03-27 at 7 20 59 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/691eb359-34ed-4ddf-975f-71f06002a6e7">
+# <img width="652" alt="Screenshot 2024-03-27 at 7 21 16 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/a227f9e9-d186-4692-beac-f490b27475f1">
+# <img width="651" alt="Screenshot 2024-03-27 at 7 21 35 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/44b26c7f-f210-4b16-bc68-613d2e1362b6">
+# <img width="707" alt="Screenshot 2024-03-27 at 7 22 59 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/c58668b5-de5c-4007-83de-d5ff766bcca0">
+# <img width="635" alt="Screenshot 2024-03-27 at 7 24 09 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/bdc1c0c1-a837-462d-80a6-38386924b965">
+# <img width="636" alt="Screenshot 2024-03-27 at 7 24 29 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/e83fc649-5a19-4acf-9de6-8d2a04433bd2">
+# <img width="635" alt="Screenshot 2024-03-27 at 7 24 53 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/c9b31699-476e-49ed-8b2c-42285084bcad">
+# <img width="678" alt="Screenshot 2024-03-27 at 7 25 49 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/42fd42ca-14d0-4a16-b297-138373b8f046">
 
 ### Queries:
 <img width="760" alt="Screenshot 2024-03-27 at 4 57 14 PM" src="https://github.com/isabellekiser/Soccer-Team/assets/150088753/96ebecb4-8f05-4fc1-8f98-fdbe39497afa">
