@@ -58,7 +58,7 @@ Being such a popular soccer club, we have many spectators at every game. The spe
 
 ### Data Dictionary:
 # <img width="664" alt="Screenshot 2024-03-27 at 7 18 15 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/fa573d2b-8523-4ac4-9abc-d61e64b83a9f">
-#<img width="655" alt="Screenshot 2024-03-27 at 7 17 48 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/9801610b-9b8f-4015-a864-111e297df126">
+<img width="655" alt="Screenshot 2024-03-27 at 7 17 48 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/9801610b-9b8f-4015-a864-111e297df126">
 
 #
 #
