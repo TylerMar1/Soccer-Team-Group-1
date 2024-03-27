@@ -59,11 +59,12 @@ Being such a popular soccer club, we have many spectators at every game. The spe
 ### Data Dictionary:
 # <img width="664" alt="Screenshot 2024-03-27 at 7 18 15 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/fa573d2b-8523-4ac4-9abc-d61e64b83a9f">
 <img width="655" alt="Screenshot 2024-03-27 at 7 17 48 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/9801610b-9b8f-4015-a864-111e297df126">
+<img width="661" alt="Screenshot 2024-03-27 at 7 19 42 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/56a24bc3-5a8e-43db-8f69-3bf2d102536c">
+<img width="663" alt="Screenshot 2024-03-27 at 7 20 32 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/2ac438ec-907c-4c0e-8249-04e122cd660f">
+<img width="640" alt="Screenshot 2024-03-27 at 7 20 59 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/691eb359-34ed-4ddf-975f-71f06002a6e7">
+<img width="652" alt="Screenshot 2024-03-27 at 7 21 16 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/a227f9e9-d186-4692-beac-f490b27475f1">
+<img width="651" alt="Screenshot 2024-03-27 at 7 21 35 PM" src="https://github.com/TylerMar1/Soccer-Team-Group-1/assets/150088753/44b26c7f-f210-4b16-bc68-613d2e1362b6">
 
-#
-#
-#
-#
 #
 #
 #
