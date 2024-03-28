@@ -83,7 +83,7 @@ Query 2 aggregates data from a training session database, counting the occurrenc
 
 Query 3:
 # ![query 3](https://github.com/isabellekiser/Soccer-Team/assets/149964200/f2eb3074-85a9-47a3-9c65-27fddb524384)
-
+Query  3 combines data from two tables, "Team" and "TrainingSession", to provide managerial insights into team training activities. By joining the tables based on matching team IDs, the query counts the number of training sessions associated with each team and presents this information alongside the team ID and name. This allows managers to assess the level of training engagement within each team, identify high-performing teams that are actively participating in training sessions, and pinpoint teams that may require additional support or encouragement to engage in training activities. 
 
 Query 4:
 # ![query 4](https://github.com/isabellekiser/Soccer-Team/assets/149964200/9de8f5a8-f84d-4f2f-b736-bb9c49171dfb)
@@ -91,26 +91,27 @@ Query 4 retrieves the genders of members whose memberships are set to end in 202
 
 Query 5:
 # ![query 5](https://github.com/isabellekiser/Soccer-Team/assets/149964200/8b6ba846-7031-419c-94c1-34856b74d720)
-
+This SQL query retrieves data about matches, including their names and attendance figures, while also calculating the percentage of the facility filled for each match. Joining the Matches table with the Facility table based on matching facility IDs ensures accurate attendance data aligned with the corresponding facility capacity. The WHERE clause filters only matches with a status of "TRUE", ensuring the inclusion of active matches. Results are then ordered by the calculated percentage of facilities filled, with higher percentages appearing first. The query's concise yet comprehensive structure enables efficient analysis of match attendance and facility utilization.
 
 Query 6:
 # ![query 6](https://github.com/isabellekiser/Soccer-Team/assets/149964200/cdca4ca4-8794-4772-9a60-a7a1cc5642f0)
-
+The SQL query provides a list of coaches who earn above the average salary of other coaches, highlighting the club's financial commitments to its coaching staff. It's a useful tool for budgeting, ensuring competitive compensation, and assessing the correlation between salary and coach performance. The data aids in financial planning and helps establish benchmarks for future salary negotiations. For a pro soccer team, this information is crucial for maintaining a balanced budget while ensuring the coaching staff is well-compensated and effective.
 
 Query 7:
 # ![query 7](https://github.com/isabellekiser/Soccer-Team/assets/149964200/72d5c9e0-999e-4d5e-b2c6-f522c0d96e3e)
-
+The SQL query in question identifies the top three most profitable jerseys by multiplying the sales price by the number sold, specifically filtering for items categorized as "jerseys." It's crucial for a soccer team's merchandise management because it highlights which jerseys are the biggest revenue generators, aiding in inventory decisions and marketing focus. The results, ordered from highest to lowest profit, allow management to pinpoint successful products and strategize on how to leverage this information for future sales and promotions.
 
 Query 8:
 # ![query 8](https://github.com/isabellekiser/Soccer-Team/assets/149964200/ce3c7421-68c6-48f3-9448-09d874c78a9c)
-
+The SQL query calculates the combined salaries of members in each team, specifically for those teams at level 3 or higher, and sorts the teams by their total salary expenditure in descending order. This information is crucial for a league manager to understand the financial commitments of different teams, assisting in budget comparisons and financial health assessments across the league. High-salary teams can be a focus for investment analysis and revenue generation strategies.
 
 Query 9:
 # ![query 9](https://github.com/isabellekiser/Soccer-Team/assets/149964200/ce6d7ba0-b8cf-482f-8670-64e769fafd63)
-
+The SQL query identifies club members who have spent more than $400 in total transactions, highlighting the highest spending individuals. This insight is valuable for recognizing and potentially rewarding top patrons, or for targeted marketing efforts. It's also useful for financial analysis, as tracking spending patterns can inform budgetary decisions and revenue forecasts for a soccer club.
 
 Query 10:
 # ![query 10](https://github.com/isabellekiser/Soccer-Team/assets/149964200/4e37e059-22b8-4e50-964c-632b93956060)
+The SQL query retrieves the count of matches played at each facility type for every league, indicating which types of pitches are most frequently used. This information is valuable for league managers to optimize the use of facilities and potentially direct maintenance and investment efforts where needed. Understanding facility usage patterns also aids in scheduling and could influence future facility developments or enhancements.
 
 
 ### Database information:
